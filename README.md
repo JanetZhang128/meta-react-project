@@ -1,5 +1,9 @@
 # meta-react-project
 
+<picture>
+  <img alt="Demo" src=demo.gif>
+</picture>
+
 ## Available Scripts
 
 In the project directory, you can run:
